@@ -407,21 +407,18 @@
     UIColor *fillColor = [UIColor greenColor];
     [fillColor set];
     [path fill];
-    
     // 设置画笔颜色
     UIColor *strokeColor = [UIColor blueColor];
     [strokeColor set];
-    
     // 根据我们设置的各个点连线
     [path stroke];
 }
 
-//圆角矩形
+  //圆角矩形
 - (void)drawRoundedRectPath {
     UIBezierPath *path = [UIBezierPath bezierPathWithRoundedRect:CGRectMake(20, 20, self.frame.size.width - 40, 30) cornerRadius:10];
     //只有一个角是圆角
 //    UIBezierPath *path = [UIBezierPath bezierPathWithRoundedRect:CGRectMake(20, 20, self.frame.size.width - 40, self.frame.size.height - 40) byRoundingCorners:UIRectCornerTopRight cornerRadii:CGSizeMake(20, 20)];
-    
     // 设置填充颜色
     UIColor *fillColor = [UIColor greenColor];
     [fillColor set];
