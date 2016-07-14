@@ -424,7 +424,7 @@
     [fillColor set];
     [path fill];
     
-    path.lineWidth = 3;//边宽
+    path.lineWidth = 3;//边kaung宽
     // 设置画笔颜色
     UIColor *strokeColor = [UIColor blueColor];
     [strokeColor set];
