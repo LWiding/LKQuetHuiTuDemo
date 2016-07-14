@@ -3,7 +3,7 @@ def pods
  pod 'MBProgressHUD', '~> 0.9.2'
  pod 'SVProgressHUD'
  pod 'AMap2DMap' #2D高德地图SDK(2D地图和3D地图不能同时使用)
- pod 'AMapSearch' #高德地图搜索服务SDK
+ pod 'AMapSearch' #搜索服务SDK
 end
 target 'LKGaoDeMapDemo' do
   pods
