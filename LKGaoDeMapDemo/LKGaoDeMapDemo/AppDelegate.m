@@ -24,7 +24,7 @@
     
     [self.window makeKeyWindow];
     
-    //hahaha主分支合并
+    //hahaha测试分支合并
     
     return YES;
     
