@@ -24,7 +24,7 @@
     
     [self.window makeKeyWindow];
     
-    
+    //hahaha
     
     return YES;
 }
