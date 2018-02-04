@@ -24,7 +24,7 @@
     
     [self.window makeKeyWindow];
     
-    //hahaha
+    //hahaha主分支
     
     return YES;
     
