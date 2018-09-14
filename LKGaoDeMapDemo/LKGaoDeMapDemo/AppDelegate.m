@@ -49,6 +49,9 @@
 
 - (void)applicationWillEnterForeground:(UIApplication *)application {
     // Called as part of the transition from the background to the inactive state; here you can undo many of the changes made on entering the background.
+    
+    
+    //奥;谷饶;我玩儿不给弄怕win人工pain无人不够女
 }
 
 - (void)applicationDidBecomeActive:(UIApplication *)application {
