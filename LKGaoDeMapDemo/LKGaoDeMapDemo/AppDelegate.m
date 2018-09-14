@@ -27,10 +27,7 @@
     //hahaha测试分支合并哈哈哈我午饭后卡无法
     
     return YES;
-    
-    
-    
-    //hahahhahahhahah
+        
 }
 
 - (void)applicationWillResignActive:(UIApplication *)application {
