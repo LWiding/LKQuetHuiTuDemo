@@ -16,6 +16,7 @@
 		059D8E941D2F485000BB1BB2 /* GaoDeViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 059D8E921D2F485000BB1BB2 /* GaoDeViewController.m */; };
 		059D8E951D2F485000BB1BB2 /* GaoDeViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 059D8E931D2F485000BB1BB2 /* GaoDeViewController.xib */; };
 		1BF94464D333BECB68DA4884 /* libPods-LKGaoDeMapDemo.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 1FC324577BC1EDEFA9EA27B5 /* libPods-LKGaoDeMapDemo.a */; };
+		4EAFCBFD247F7F49003542C2 /* ttttttttt.m in Sources */ = {isa = PBXBuildFile; fileRef = 4EAFCBFC247F7F49003542C2 /* ttttttttt.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -34,6 +35,8 @@
 		059D8E931D2F485000BB1BB2 /* GaoDeViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = GaoDeViewController.xib; sourceTree = "<group>"; };
 		1FC324577BC1EDEFA9EA27B5 /* libPods-LKGaoDeMapDemo.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-LKGaoDeMapDemo.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		32903D148A325AA4BF416122 /* Pods-LKGaoDeMapDemo.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-LKGaoDeMapDemo.release.xcconfig"; path = "Pods/Target Support Files/Pods-LKGaoDeMapDemo/Pods-LKGaoDeMapDemo.release.xcconfig"; sourceTree = "<group>"; };
+		4EAFCBFB247F7F49003542C2 /* ttttttttt.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ttttttttt.h; sourceTree = "<group>"; };
+		4EAFCBFC247F7F49003542C2 /* ttttttttt.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ttttttttt.m; sourceTree = "<group>"; };
 		ACD29A7141951B35EB72F22E /* Pods-LKGaoDeMapDemo.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-LKGaoDeMapDemo.debug.xcconfig"; path = "Pods/Target Support Files/Pods-LKGaoDeMapDemo/Pods-LKGaoDeMapDemo.debug.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -72,6 +75,8 @@
 			children = (
 				059D8E7D1D2E535E00BB1BB2 /* AppDelegate.h */,
 				059D8E7E1D2E535E00BB1BB2 /* AppDelegate.m */,
+				4EAFCBFB247F7F49003542C2 /* ttttttttt.h */,
+				4EAFCBFC247F7F49003542C2 /* ttttttttt.m */,
 				059D8E911D2F485000BB1BB2 /* GaoDeViewController.h */,
 				059D8E921D2F485000BB1BB2 /* GaoDeViewController.m */,
 				057679A31D35E92B00032F61 /* BesierView.h */,
@@ -153,6 +158,7 @@
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
+				English,
 				en,
 				Base,
 			);
@@ -234,6 +240,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				057679A51D35E92B00032F61 /* BesierView.m in Sources */,
+				4EAFCBFD247F7F49003542C2 /* ttttttttt.m in Sources */,
 				059D8E7F1D2E535E00BB1BB2 /* AppDelegate.m in Sources */,
 				059D8E7C1D2E535E00BB1BB2 /* main.m in Sources */,
 				059D8E941D2F485000BB1BB2 /* GaoDeViewController.m in Sources */,
